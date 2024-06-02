@@ -6,7 +6,9 @@
 🔭 I’m currently working on MERN stack projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about anything, I will enjoy trying to find an answer to it<br>📫 How to reach me utsha1803@gmail.com
 
 
-<center>## 🌐 Socials:</center>
+<div align = "center">
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_u_t_s_h_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsha-majumder18032004) 
 
 # 💻 Tech Stack:
@@ -27,5 +29,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Utsha-18&icon=0&color=9)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
