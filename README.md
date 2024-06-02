@@ -1,6 +1,6 @@
 <h1 align = "center"> HI, I AM UTSHA MAJUMDER </h1>
 <br>
-<h4> I’m a passionate web developer specializing in creating innovative and user-friendly digital experiences. I enjoy solving problems and continuously learning new technologies to enhance my skills.</h4>
+<h4> <center>I’m a passionate web developer specializing in creating innovative and user-friendly digital experiences. I enjoy solving problems and continuously learning new technologies to enhance my skills. </center></h4>
 <h2>💫 About Me:</h2>
 <br>
 🔭 I’m currently working on MERN stack projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about anything, I will enjoy trying to find an answer to it<br>📫 How to reach me utsha1803@gmail.com
