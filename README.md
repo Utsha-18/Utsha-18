@@ -1,8 +1,7 @@
 <h1 align = "center"> HI, I AM UTSHA MAJUMDER </h1>
 <br>
 <h4> Currently pursuing B. Tech in Computer Science Engineering.</h4>
-💫 About Me:
-<br>
+##💫 About Me:
 🔭 I’m currently working on MERN stack projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about anything, I will enjoy trying to find an answer to it<br>📫 How to reach me utsha1803@gmail.com
 
 
