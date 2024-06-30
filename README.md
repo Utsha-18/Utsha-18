@@ -18,6 +18,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Utsha-18&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsha-18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/UtshaMajumder?theme=dark&font=Antic&ext=heatmap)
+  
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Utsha-18&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
